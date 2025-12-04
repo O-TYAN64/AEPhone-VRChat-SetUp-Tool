@@ -10,6 +10,6 @@ AEPhone_HUBのAEphone_android起動時にvrchatのoscポート許可の確認も
 3.スマホのみをPCに接続し、AEPhone HUBのandroidで起動を押す<br>
 4.ステータスがAEPhone_android 起動完了 になったら、HMDを接続し、VRChatを起動する<br>
 5.AEPhone HUBの終了ボタンを押し、再度androidで起動を押す**<br>
-※手順1ができていれば2番以降は飛ばしても大丈夫です、人によってはこの手順でうまくいかない場合もあります、ご承知お願いします
-※これでうまくいかない場合、aephone_hubのソースコードを見ないと原因究明ができない場合がありますので、ご承知お願いします
-これでもうまくいかない場合は、AEPhone公式"discord"=[https://discord.gg/YQcaQVyf8E]
+※手順1ができていれば2番以降は飛ばしても大丈夫です、人によってはこの手順でうまくいかない場合もあります、ご承知お願いします<br>
+※これでうまくいかない場合、aephone_hubのソースコードを見ないと原因究明ができない場合がありますので、ご承知お願いします<br>
+これでもうまくいかない場合は、AEPhone公式[discord](https://discord.gg/YQcaQVyf8E)まで
